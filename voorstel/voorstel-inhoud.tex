@@ -36,14 +36,13 @@ functionaliteiten, wat een aandachtspunt is voor kostengevoelige projecten.
 
 Anderzijds is er ook de mogelijkheid om gebruik te maken van een traditionele SQL-database, zoals
 MySQL of PostgreSQL. Deze databases staan bekend om hun robuustheid bij het verwerken van
-gestructureerde gegevens en hun complexe zoekopdrachten. Ze zijn met name geschikt voor het
-uitvoeren van transactie-intensieve applicaties, zoals die vaak voorkomen in e-
-commerceomgevingen. Ze bieden een hoge betrouwbaarheid en sterke consistentie, maar zijn
-mogelijk minder flexibel in termen van schemawijzigingen. Ze kunnen ook uitdagingen opleveren bij
-het opschalen naar grote hoeveelheden ongestructureerde gegevens.~\autocite{UZAYR2023}.
+gestructureerde gegevens en hun complexe zoekopdrachten. Volgens \textcite{Solarwinds} zijn traditionele databases met name geschikt voor het uitvoeren van transactie-intensieve applicaties,
+zoals die vaak voorkomen in e-commerceomgevingen. Ze bieden een hoge betrouwbaarheid en sterke consistentie, maar zijn mogelijk minder flexibel in termen van schemawijzigingen. Ze kunnen ook uitdagingen opleveren bij het opschalen naar grote hoeveelheden ongestructureerde gegevens.
+
+Naast traditionele SQL- of NoSQL-databases kan ook gebruik worden gemaakt van een Graph-database. Zowel ~\textcite{AWS} als ~\textcite{Foote2023} benadrukken dat Graph-databases een flexibeler platform bieden voor het detecteren en tot stand brengen van verbindingen en relaties. Door hun ontwerp zijn grafische databases vaak ook sneller in het presenteren van relaties dan relationele databases. Volgens ~\textcite{AWS} biedt een grafische database echter alleen meerwaarde voor datasets met sterke onderlinge verbindingen en de daarbij behorende analyses, waarbij verborgen en schijnbare relaties moeten worden onthuld.
 
 Een mogelijke oplossing om zowel flexibel om te kunnen gaan met ongestructureerde data als
-gestructureerde transactiedata is door gebruik te maken van een hybride benadering. Dit laat toe om
+gestructureerde transactiedata is door gebruik te maken van een hybride benadering ~\autocite{DevX2023}. Dit laat toe om
 gebruik te maken van een NoSQL database voor het beheer van dynamische, ongestructureerde
 data, zoals MongoDB, en het gebruik van een SQL-database voor de gestructureerde transactiedata
 zoals MySQL of PostgreSQL. Hierdoor zouden niet alleen de prestaties worden geoptimaliseerd maar
@@ -69,42 +68,42 @@ veranderende behoeften van de mode-industrie anderzijds.
 
 \subsection{Fase 1: Literatuurstudie}
 \label{subsec:literatuurstudie}
-In de eerste fase voer ik een uitgebreide literatuurstudie uit om de huidige stand van zaken in database technologieën voor e-commerce platformen in kaart te brengen. Ik zal relevante academische papers, technische documentatie, en marktanalyses bestuderen. Deze fase zal tussen de drie en vier weken duren.
+In de eerste fase zal er een uitgebreide literatuurstudie uitgevoerd worden om de huidige stand van zaken in database technologieën voor e-commerce platformen in kaart te brengen. Er zullen relevante academische papers, technische documentatie, en marktanalyses bestudeerd worden. Deze fase zal tussen de drie en vier weken duren.
 \textbf{Deliverables:} Een overzicht van bestaande databaseoplossingen en een samenvatting van relevante onderzoeksartikelen.
 
 \subsection{Fase 2: Requirements-analyse}
 \label{subsec:requirementsanalyse}
-In de tweede fase zal er onderzocht worden wat de functionele en niet-functionele eisen zijn voor kleine tot middelgrote mode-e-commerce platformen. Dit zal gedaan worden door in gesprek te gaan of het sturen van mails met stakeholders in kleine tot middelgrote mode-e-commerce platformen. Deze fase zal ongeveer één à twee weken duren. 
+In de tweede fase zal er onderzocht worden wat de functionele en niet-functionele eisen zijn voor kleine tot middelgrote mode-e-commerce platformen. Dit zal gedaan worden door in gesprek te gaan of het sturen van mails met stakeholders in kleine tot middelgrote mode-e-commerce platformen. Deze fase zal ongeveer één à twee weken duren.
 
 \textbf{Deliverables:} Een lijst van requirements voor de databasearchitectuur.
 
 \subsection{Fase 3: Experimenteel Ontwerp}
 \label{subsec:experimenteelontwerp}
-In deze fase zal ik een reeks experimenten opzetten om verschillende databasebeheersystemen te evalueren. Deze experimenten zullen zich richten op prestatie-indicatoren zoals reactietijd en doorvoersnelheid. Deze fase zal ongeveer één à twee weken duren. 
+In deze fase zal een reeks experimenten opgezet worden om verschillende databasebeheersystemen te evalueren. Deze experimenten zullen zich richten op prestatie-indicatoren zoals reactietijd en doorvoersnelheid. Deze fase zal ongeveer één à twee weken duren.
 
 \textbf{Deliverables:} Een experimenteel plan en testprotocollen.
 
 \subsection{Fase 4: Data-analyse}
 \label{subsec:dataanalyse}
-In fase vier zal ik de verzamelde data uit de experimenten analyseren met statistische software om significante patronen en verschillen te identificeren. Deze fase zal ongeveer één à twee weken duren. 
+In fase vier zal de verzamelde data uit de experimenten geanalyseerd worden met statistische software om significante patronen en verschillen te identificeren. Deze fase zal ongeveer één à twee weken duren.
 
 \textbf{Deliverables:} Een statistisch onderbouwd rapport met de bevindingen uit de experimenten.
 
 \subsection{Fase 5: Vergelijkende Studie}
 \label{subsec:vergelijkendestudie}
-In de vijfde fase zal ik op basis van de data-analyse een vergelijkende studie uitvoeren om de voor- en nadelen van elk databasebeheersysteem te identificeren. Deze fase zal ongeveer één tot twee weken duren.
+In de vijfde fase zal op basis van de data-analyse een vergelijkende studie uitgevoerd worden om de voor- en nadelen van elk databasebeheersysteem te identificeren. Deze fase zal ongeveer één tot twee weken duren.
 
 \textbf{Deliverables:} Een gedetailleerde vergelijkingstabel en een aanbevelingsrapport.
 
 \subsection{Fase 6: Risico-analyse}
 \label{subsec:risicoanalyse}
-In deze fase zal ik een risico-analyse uitvoeren om potentiële knelpunten en risico's in de implementatie van de aanbevolen databaseoplossingen te identificeren. Deze fase zal ongeveer een week duren.
+In deze fase zal er een risico-analyse uitgevoerd worden om potentiële knelpunten en risico's in de implementatie van de aanbevolen databaseoplossingen te identificeren. Deze fase zal ongeveer een week duren.
 
 \textbf{Deliverables:} Een risicobeoordelingsdocument.
 
 \subsection{Fase 7: Proof of Concept (PoC)}
 \label{subsec:poc}
-In deze fase zal ik een Proof of Concept ontwikkelen om de haalbaarheid van de aanbevolen databasearchitectuur te demonstreren. Deze fase zal ongeveer een week duren.
+In deze fase zal een Proof of Concept ontwikkeld worden om de haalbaarheid van de aanbevolen databasearchitectuur te demonstreren. Deze fase zal ongeveer een week duren.
 
 \textbf{Deliverables:} Een werkend prototype en een documentatie van de ontwikkeling.
 
