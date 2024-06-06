@@ -1,0 +1,52 @@
+\chapter{\IfLanguageName{dutch}{Requirements-analyse}{Requirement Analysis}}%
+\label{ch:requirement-analyse}
+
+Een database vormt het hart, de kern van een goedwerkende e-commerce webshop. In dit geval voor een webshop in de mode-industrie. Voor een webshop is het belangrijk dat er voldaan wordt aan bepaalde behoeften. Hieronder vallen snelheid, betrouwbaarheid, schaalbaarheid en het beheren van data. Om aan deze behoeften te kunnen voldoen is het belangrijk dat vooraf een grondige requirement analyse wordt opgesteld. Deze analyse zal dan achteraf een inzicht kunnen bieden in de specifieke behoeften van de webshop en de basis vormen voor het selecteren van de juiste database-oplossing.
+
+\section{Identificeren van de functionele requirements}
+\label{sec:functionele-requirements}
+De functionele requirements omvatten de specifieke taken en functies die de database zal moeten uitvoeren. Hieronder wordt een overzicht gegeven van de meest voorkomende functionele requirements voor een e-commerce webshop in  de mode-industrie:
+
+\begin{itemize}
+    \item \textbf{\textit{Beheren van klantengegevens}} \\
+    De database moet in staat zijn om belangrijke klantengegevens zoals Klanten-ID, Naam, e-mail, telefoonnummer, factuur- en verzendgegevens, inloggegevens, enzovoort op te slaan en te beheren. Daarnaast moet de database in staat zijn om deze gegevens weer te geven wanneer gevraagd.
+    \item \textbf{\textit{Beheren van producten}} \\
+    Hieronder valt het opslaan en beheren van alle gegevens gerelateerd aan de producten die verkocht worden, zoals de naam van het product alsook een korte beschrijving, de prijs, categorie, afbeeldingen, productvariaties, ID, enzovoort.
+    \item \textbf{\textit{Beheren van categorieën}} \\
+    De verschillende categorieën waaronder een product onderverdeeld kan worden. Dit zorgt ervoor dat de winkelcatalogus beter georganiseerd kan worden.
+    \item \textbf{\textit{Beheren van de bestellingen}} \\
+    Deze informatie omvat het bestel-ID, klant-ID, de status van de bestelling, verzend- en factuuradres, verzendmethode, betaalmethode en besteltotaal.
+    \item \textbf{\textit{Beheren van de bestelitems}} \\
+    Dit bevat alle details van de bestelde items. Het product-ID, bestelling-ID, hoeveelheid, productprijs, en andere relevante gegevens over de bestelde producten.
+    \item \textbf{\textit{Beheren van de betaalmethoden}} \\
+    Bevat de verschillende betaalmethoden die beschikbaar zijn gesteld voor de klanten. Neem bijvoorbeeld paypal, creditcard, enzovoort.
+    \item \textbf{\textit{Beheren van de verzendmethoden}} \\
+    Bevat informatie rond de verschillende verzendopties die aangeboden worden en de kosten en snelheden die met elk van deze verzendmethoden geassocieerd zijn.
+    \item \textbf{\textit{Beheren van de voorraad}} \\
+    Het beheren en opslaan van de voorraad omvat alle informatie rond de voorraadniveaus van de aangeboden artikels. 
+    \item \textbf{\textit{Beheren van de logs}} \\
+    Het opslaan en beheren van logs in het systeem biedt een historisch overzicht van de gebruikersinteracties binnen het systeem. Daarnaast dient het ook als een waardevol instrument voor de systeembeheerders en ontwikkelaars voor het analyseren en debuggen van het systeem. In geval van problemen kan de systeembeheerder of ontwikkelaar op deze manier makkelijker het probleem achterhalen.
+\end{itemize}
+
+\section{Identificeren van de niet-functionele requirements}
+\label{sec:niet-functionele-requirements}
+Om te kunnen werken met de uitgebreide gegevens die worden opgeslagen in de database van de e-commerce webshop, zijn niet alleen functionele vereisten belangrijk, maar ook niet-functionele aspecten die de algehele prestaties en bruikbaarheid van de database beïnvloeden.
+\begin{itemize}
+    \item \textbf{\textit{Schaalbaarheid}} \\
+    De database moet in staat zijn om te kunnen schalen zodat gewerkt kan worden met de groeiende hoeveelheid data in een e-commerce webshop. Dit wil zeggen dat de database efficiënt moeten kunnen blijven werken bij een toenemend volume aan belasting en gegevens. 
+    
+    \item \textbf{\textit{Prestaties}} \\
+    Snelle en betrouwbare prestaties zijn enorm belangrijk, voornamelijk tijdens piekuren. De database moet dus in staat zijn om snel en efficiënt complexe queries uit te voeren, transacties te verwerken en informatie aan de gebruikers weer te geven, en dit allemaal zonder vertragingen.
+    
+    \item \textbf{\textit{Betrouwbaarheid}} \\
+    Het is belangrijk dat de database ten alle tijden beschikbaar is. Downtime zou ervoor zorgen dat de klanten geen gebruik kunnen maken van de diensten die aangeboden worden.
+    
+    \item \textbf{\textit{Beveiliging}} \\
+    De database moet robuuste beveiligingsmaatregelen aanbieden om ongeautoriseerde toegang tegen te gaan. Dit is zeer belangrijk aangezien gevoelige data zoals klantengegevens verwerkt worden.
+\end{itemize}
+
+De niet-functionele vereisten kunnen echter nog verder opgesplitst worden. Deze bachelorproef richt zich vooral op de prestaties van de database oplossingen. Om deze reden zullen dan ook de schaalbaarheid, betrouwbaarheid en beveiliging niet getest worden. Hoewel deze belangrijke vereisten zijn voor een goedwerkende database systeem zullen ze niet verder besproken worden in deze bachelorproef. De keuze om de aandacht te beperken tot prestaties is gemaakt om de onderzoeksvraag duidelijk af te bakenen en diepgaande analyses mogelijk te maken binnen de beschikbare tijd.
+
+Prestaties is een veelomvattend begrip dat verschillende aspecten van de werking van een database kan omvatten. Naast de snelheid waarmee queries worden uitgevoerd, omvat het ook factoren zoals de doorvoersnelheid, stabiliteit en beschikbaarheid.
+
+Voor de testen die uitgevoerd worden in deze bachelorproef zal gefocust worden op de reactie snelheid van een aantal verschillende queries in elk van de voorgestelde databases. Deze queries zullen bestaan uit het aanmaken, bijwerken, verwijderen en ophalen van gegevens.

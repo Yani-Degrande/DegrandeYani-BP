@@ -1,0 +1,1871 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{DistributedDatabase2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d52494c933fef2d428276ff9725fc734}{%
+           family={ionica},
+           familyi={i\bibinitperiod},
+           prefix={adrian\bibnamedelimb runceanu/\bibnamedelimb marian\bibnamedelimb popescu/\bibnamedelimb ilie\bibnamedelimb borcosi/\bibnamedelima dragos},
+           prefixi={a\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{fullhash}{d52494c933fef2d428276ff9725fc734}
+      \strng{fullhashraw}{d52494c933fef2d428276ff9725fc734}
+      \strng{bibnamehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authorbibnamehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authornamehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authorfullhash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authorfullhashraw}{d52494c933fef2d428276ff9725fc734}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fiability & Durability / Fiabilitate si Durabilitate}
+      \field{title}{SHORT REVIEW OF SOME NOSQL DATABASES}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Amazonb}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon Aurora features}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/rds/aurora/features/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/rds/aurora/features/
+      \endverb
+    \endentry
+    \entry{Amazon}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is a Graph Database?}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+    \endentry
+    \entry{Amazona}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is Cloud Native?}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/what-is/cloud-native/#:~:text=Cloud native is the software,quickly to meet customer demands
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/what-is/cloud-native/#:~:text=Cloud%20native%20is%20the%20software,quickly%20to%20meet%20customer%20demands
+      \endverb
+    \endentry
+    \entry{AWS}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4847e034bb0a55fcbc8a3380d6a3ab80}{%
+           family={AWS},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{fullhash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{fullhashraw}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{bibnamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorbibnamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authornamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorfullhash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorfullhashraw}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is a Graph Database?}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+    \endentry
+    \entry{ClickHouse}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=431fce03ced70d56c9ebc70ed3daa1b6}{%
+           family={ClickHouse},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{bibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorbibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authornamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Distinctive Features of ClickHouse}
+      \verb{urlraw}
+      \verb https://clickhouse.com/docs/en/about-us/distinctive-features
+      \endverb
+      \verb{url}
+      \verb https://clickhouse.com/docs/en/about-us/distinctive-features
+      \endverb
+    \endentry
+    \entry{ClickHousea}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=431fce03ced70d56c9ebc70ed3daa1b6}{%
+           family={ClickHouse},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{bibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorbibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authornamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The fastest open-source analytical database.}
+      \verb{urlraw}
+      \verb https://clickhouse.com/clickhouse
+      \endverb
+      \verb{url}
+      \verb https://clickhouse.com/clickhouse
+      \endverb
+    \endentry
+    \entry{Couchbasea}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dd3b0205c0cae0eb0b77da34529a5c5}{%
+           family={Couchbase},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{bibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorbibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authornamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NoSQL Database for Retail}
+      \verb{urlraw}
+      \verb https://www.couchbase.com/use-cases/retail-and-ecommerce/
+      \endverb
+      \verb{url}
+      \verb https://www.couchbase.com/use-cases/retail-and-ecommerce/
+      \endverb
+    \endentry
+    \entry{Couchbase}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dd3b0205c0cae0eb0b77da34529a5c5}{%
+           family={Couchbase},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{bibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorbibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authornamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NoSQL Databases}
+      \verb{urlraw}
+      \verb https://www.couchbase.com/resources/why-nosql/
+      \endverb
+      \verb{url}
+      \verb https://www.couchbase.com/resources/why-nosql/
+      \endverb
+    \endentry
+    \entry{DBEngines}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03784a7c5600d29113972955e602a944}{%
+           family={DB-Engines},
+           familyi={D\bibinithyphendelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{03784a7c5600d29113972955e602a944}
+      \strng{fullhash}{03784a7c5600d29113972955e602a944}
+      \strng{fullhashraw}{03784a7c5600d29113972955e602a944}
+      \strng{bibnamehash}{03784a7c5600d29113972955e602a944}
+      \strng{authorbibnamehash}{03784a7c5600d29113972955e602a944}
+      \strng{authornamehash}{03784a7c5600d29113972955e602a944}
+      \strng{authorfullhash}{03784a7c5600d29113972955e602a944}
+      \strng{authorfullhashraw}{03784a7c5600d29113972955e602a944}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DB-Engines Ranking}
+      \verb{urlraw}
+      \verb https://db-engines.com/en/ranking
+      \endverb
+      \verb{url}
+      \verb https://db-engines.com/en/ranking
+      \endverb
+    \endentry
+    \entry{DevX2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90a163a05e3a6aaf0a55ec49dd4a59b4}{%
+           family={DevX},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{fullhash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{fullhashraw}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{bibnamehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authorbibnamehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authornamehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authorfullhash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authorfullhashraw}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{12}
+      \field{title}{Hybrid Database}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.devx.com/terms/hybrid-database/
+      \endverb
+      \verb{url}
+      \verb https://www.devx.com/terms/hybrid-database/
+      \endverb
+    \endentry
+    \entry{Encyclo.nl}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0adb9731378855880351245cf33304b2}{%
+           family={Encyclo.nl},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0adb9731378855880351245cf33304b2}
+      \strng{fullhash}{0adb9731378855880351245cf33304b2}
+      \strng{fullhashraw}{0adb9731378855880351245cf33304b2}
+      \strng{bibnamehash}{0adb9731378855880351245cf33304b2}
+      \strng{authorbibnamehash}{0adb9731378855880351245cf33304b2}
+      \strng{authornamehash}{0adb9731378855880351245cf33304b2}
+      \strng{authorfullhash}{0adb9731378855880351245cf33304b2}
+      \strng{authorfullhashraw}{0adb9731378855880351245cf33304b2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Schaalbaarheid definities}
+      \verb{urlraw}
+      \verb https://www.encyclo.nl/begrip/schaalbaarheid
+      \endverb
+      \verb{url}
+      \verb https://www.encyclo.nl/begrip/schaalbaarheid
+      \endverb
+    \endentry
+    \entry{Foote2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=803194a299d058de8f19d18e360c8b35}{%
+           family={Foote},
+           familyi={F\bibinitperiod},
+           given={Keith\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{fullhash}{803194a299d058de8f19d18e360c8b35}
+      \strng{fullhashraw}{803194a299d058de8f19d18e360c8b35}
+      \strng{bibnamehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authorbibnamehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authornamehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authorfullhash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authorfullhashraw}{803194a299d058de8f19d18e360c8b35}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{10}
+      \field{title}{Types of Database Management Systems}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dataversity.net/types-of-database-management-systems/
+      \endverb
+      \verb{url}
+      \verb https://www.dataversity.net/types-of-database-management-systems/
+      \endverb
+    \endentry
+    \entry{geeksforgeeks2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6eb56f80be8a120436d6f1c9b8d87ca}{%
+           family={geeksforgeeks},
+           familyi={g\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{fullhash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{fullhashraw}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{bibnamehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authorbibnamehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authornamehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authorfullhash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authorfullhashraw}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{3}
+      \field{title}{Flat File Database}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/flat-file-database/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/flat-file-database/
+      \endverb
+    \endentry
+    \entry{ibm}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e757fd4fedc4fe825bb81b1b466a0947}{%
+           family={ibm},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{fullhash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{fullhashraw}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{bibnamehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authorbibnamehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authornamehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authorfullhash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authorfullhashraw}{e757fd4fedc4fe825bb81b1b466a0947}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a relational database?}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/relational-databases
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/relational-databases
+      \endverb
+    \endentry
+    \entry{ICTInformatiecentrum}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1e9e03208d08b95b7d47f1071f6d5fa}{%
+           family={ICTInformatiecentrum},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{fullhash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{fullhashraw}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{bibnamehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authorbibnamehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authornamehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authorfullhash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authorfullhashraw}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database}
+      \verb{urlraw}
+      \verb https://www.ictinformatiecentrum.nl/data-management/database
+      \endverb
+      \verb{url}
+      \verb https://www.ictinformatiecentrum.nl/data-management/database
+      \endverb
+    \endentry
+    \entry{ictportal2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2619eae351473e58f6c74e8ce0e2d68}{%
+           family={ictportal},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{fullhash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{fullhashraw}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{bibnamehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authorbibnamehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authornamehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authorfullhash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authorfullhashraw}{e2619eae351473e58f6c74e8ce0e2d68}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{2}
+      \field{title}{Database}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ictportal.nl/ict-lexicon/database
+      \endverb
+      \verb{url}
+      \verb https://www.ictportal.nl/ict-lexicon/database
+      \endverb
+    \endentry
+    \entry{Inetum2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5004e6134d61b21b4a0cfdc77054f400}{%
+           family={Inetum},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{fullhash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{fullhashraw}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{bibnamehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authorbibnamehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authornamehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authorfullhash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authorfullhashraw}{5004e6134d61b21b4a0cfdc77054f400}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{1}
+      \field{title}{MongoDB – the perfect database system for e-commerce?}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nearshore-it.eu/articles/mongodb-ecommerce-database/
+      \endverb
+      \verb{url}
+      \verb https://www.nearshore-it.eu/articles/mongodb-ecommerce-database/
+      \endverb
+    \endentry
+    \entry{Kleppmann2017a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34b8d5b1d29d175527a6642f3ec8a76d}{%
+           family={Kleppmann},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{bibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorbibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authornamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Kleppmann2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34b8d5b1d29d175527a6642f3ec8a76d}{%
+           family={Kleppmann},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{bibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorbibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authornamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Title:Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lucidchart}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a945dfc050b9f284bd166d0bd342094b}{%
+           family={lucidchart},
+           familyi={l\bibinitperiod}}}%
+      }
+      \strng{namehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{fullhash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{fullhashraw}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{bibnamehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authorbibnamehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authornamehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authorfullhash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authorfullhashraw}{a945dfc050b9f284bd166d0bd342094b}
+      \field{sortinit}{l}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is an Entity Relationship Diagram (ERD)?}
+      \verb{urlraw}
+      \verb https://www.lucidchart.com/pages/er-diagrams
+      \endverb
+      \verb{url}
+      \verb https://www.lucidchart.com/pages/er-diagrams
+      \endverb
+    \endentry
+    \entry{MariaDB}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f9733e208088b1ce6df3d4be1765396}{%
+           family={MariaDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{fullhash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{fullhashraw}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{bibnamehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authorbibnamehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authornamehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authorfullhash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authorfullhashraw}{7f9733e208088b1ce6df3d4be1765396}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://mariadb.com/
+      \endverb
+      \verb{url}
+      \verb https://mariadb.com/
+      \endverb
+    \endentry
+    \entry{Microsoft}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NoSQL Database: wat is NoSQL?}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/nl-nl/resources/cloud-computing-dictionary/what-is-nosql-database
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/nl-nl/resources/cloud-computing-dictionary/what-is-nosql-database
+      \endverb
+    \endentry
+    \entry{Microsofta}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is cloud computing?}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+      \endverb
+    \endentry
+    \entry{MongoDBb}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=206e3718af092fd1d12f80cae771ccac}{%
+           family={MongoDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \strng{bibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorbibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authornamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MongoDB Atlas FAQ}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/cloud/atlas/faq
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/cloud/atlas/faq
+      \endverb
+    \endentry
+    \entry{MongoDB}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=206e3718af092fd1d12f80cae771ccac}{%
+           family={MongoDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \strng{bibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorbibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authornamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is an Object-Oriented Database?}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/databases/what-is-an-object-oriented-database#:~:text=An object-oriented database (OOD,), everything is an object
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/databases/what-is-an-object-oriented-database#:~:text=An%20object-oriented%20database%20(OOD,),%20everything%20is%20an%20object
+      \endverb
+    \endentry
+    \entry{MongoDBa}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=206e3718af092fd1d12f80cae771ccac}{%
+           family={MongoDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \strng{bibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorbibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authornamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{3}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is MongoDB Atlas?}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/docs/atlas/
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/docs/atlas/
+      \endverb
+    \endentry
+    \entry{Oracle}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30162ed78b6c10f731411f2fc440c24f}{%
+           family={Oracle},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhashraw}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{bibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorbibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authornamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorfullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorfullhashraw}{30162ed78b6c10f731411f2fc440c24f}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Atomicity}
+      \verb{urlraw}
+      \verb https://docs.oracle.com/cd/E17275_01/html/programmer_reference/transapp_atomicity.html
+      \endverb
+      \verb{url}
+      \verb https://docs.oracle.com/cd/E17275_01/html/programmer_reference/transapp_atomicity.html
+      \endverb
+    \endentry
+    \entry{ovhcloud}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7172a49053b1de3ef7d41479ef4fa382}{%
+           family={ovhcloud},
+           familyi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{fullhash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{fullhashraw}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{bibnamehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authorbibnamehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authornamehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authorfullhash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authorfullhashraw}{7172a49053b1de3ef7d41479ef4fa382}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wat is een relationele database?}
+      \verb{urlraw}
+      \verb https://www.ovhcloud.com/nl/learn/what-is-relational-database/
+      \endverb
+      \verb{url}
+      \verb https://www.ovhcloud.com/nl/learn/what-is-relational-database/
+      \endverb
+    \endentry
+    \entry{ScyllaDB}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05eff963a703df45c6c65778a86dab71}{%
+           family={ScyllaDB},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{fullhash}{05eff963a703df45c6c65778a86dab71}
+      \strng{fullhashraw}{05eff963a703df45c6c65778a86dab71}
+      \strng{bibnamehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authorbibnamehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authornamehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authorfullhash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authorfullhashraw}{05eff963a703df45c6c65778a86dab71}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database Scalability}
+      \verb{urlraw}
+      \verb https://www.scylladb.com/glossary/database-scalability/
+      \endverb
+      \verb{url}
+      \verb https://www.scylladb.com/glossary/database-scalability/
+      \endverb
+    \endentry
+    \entry{Solarwinds}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c41ad41df449083927c4bbf30714b46b}{%
+           family={Solarwinds},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{fullhash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{fullhashraw}{c41ad41df449083927c4bbf30714b46b}
+      \strng{bibnamehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authorbibnamehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authornamehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authorfullhash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authorfullhashraw}{c41ad41df449083927c4bbf30714b46b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a SQL Database?}
+      \verb{urlraw}
+      \verb https://www.solarwinds.com/resources/it-glossary/sql-database
+      \endverb
+      \verb{url}
+      \verb https://www.solarwinds.com/resources/it-glossary/sql-database
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{DistributedDatabase2022}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d52494c933fef2d428276ff9725fc734}{%
+           family={ionica},
+           familyi={i\bibinitperiod},
+           prefix={adrian\bibnamedelimb runceanu/\bibnamedelimb marian\bibnamedelimb popescu/\bibnamedelimb ilie\bibnamedelimb borcosi/\bibnamedelima dragos},
+           prefixi={a\bibinitperiod\bibinitdelim r\bibinitperiod\bibinitdelim m\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim i\bibinitperiod\bibinitdelim b\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \strng{namehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{fullhash}{d52494c933fef2d428276ff9725fc734}
+      \strng{fullhashraw}{d52494c933fef2d428276ff9725fc734}
+      \strng{bibnamehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authorbibnamehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authornamehash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authorfullhash}{d52494c933fef2d428276ff9725fc734}
+      \strng{authorfullhashraw}{d52494c933fef2d428276ff9725fc734}
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Fiability & Durability / Fiabilitate si Durabilitate}
+      \field{title}{SHORT REVIEW OF SOME NOSQL DATABASES}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Amazonb}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon Aurora features}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/rds/aurora/features/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/rds/aurora/features/
+      \endverb
+    \endentry
+    \entry{Amazon}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is a Graph Database?}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+    \endentry
+    \entry{Amazona}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhashraw}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradate}{3}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is Cloud Native?}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/what-is/cloud-native/#:~:text=Cloud native is the software,quickly to meet customer demands
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/what-is/cloud-native/#:~:text=Cloud%20native%20is%20the%20software,quickly%20to%20meet%20customer%20demands
+      \endverb
+    \endentry
+    \entry{AWS}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4847e034bb0a55fcbc8a3380d6a3ab80}{%
+           family={AWS},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{fullhash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{fullhashraw}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{bibnamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorbibnamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authornamehash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorfullhash}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \strng{authorfullhashraw}{4847e034bb0a55fcbc8a3380d6a3ab80}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is a Graph Database?}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/nosql/graph/
+      \endverb
+    \endentry
+    \entry{ClickHouse}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=431fce03ced70d56c9ebc70ed3daa1b6}{%
+           family={ClickHouse},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{bibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorbibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authornamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Distinctive Features of ClickHouse}
+      \verb{urlraw}
+      \verb https://clickhouse.com/docs/en/about-us/distinctive-features
+      \endverb
+      \verb{url}
+      \verb https://clickhouse.com/docs/en/about-us/distinctive-features
+      \endverb
+    \endentry
+    \entry{ClickHousea}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=431fce03ced70d56c9ebc70ed3daa1b6}{%
+           family={ClickHouse},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{fullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{bibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorbibnamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authornamehash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhash}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \strng{authorfullhashraw}{431fce03ced70d56c9ebc70ed3daa1b6}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The fastest open-source analytical database.}
+      \verb{urlraw}
+      \verb https://clickhouse.com/clickhouse
+      \endverb
+      \verb{url}
+      \verb https://clickhouse.com/clickhouse
+      \endverb
+    \endentry
+    \entry{Couchbasea}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dd3b0205c0cae0eb0b77da34529a5c5}{%
+           family={Couchbase},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{bibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorbibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authornamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NoSQL Database for Retail}
+      \verb{urlraw}
+      \verb https://www.couchbase.com/use-cases/retail-and-ecommerce/
+      \endverb
+      \verb{url}
+      \verb https://www.couchbase.com/use-cases/retail-and-ecommerce/
+      \endverb
+    \endentry
+    \entry{Couchbase}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7dd3b0205c0cae0eb0b77da34529a5c5}{%
+           family={Couchbase},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{fullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{bibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorbibnamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authornamehash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhash}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \strng{authorfullhashraw}{7dd3b0205c0cae0eb0b77da34529a5c5}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NoSQL Databases}
+      \verb{urlraw}
+      \verb https://www.couchbase.com/resources/why-nosql/
+      \endverb
+      \verb{url}
+      \verb https://www.couchbase.com/resources/why-nosql/
+      \endverb
+    \endentry
+    \entry{DBEngines}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=03784a7c5600d29113972955e602a944}{%
+           family={DB-Engines},
+           familyi={D\bibinithyphendelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{03784a7c5600d29113972955e602a944}
+      \strng{fullhash}{03784a7c5600d29113972955e602a944}
+      \strng{fullhashraw}{03784a7c5600d29113972955e602a944}
+      \strng{bibnamehash}{03784a7c5600d29113972955e602a944}
+      \strng{authorbibnamehash}{03784a7c5600d29113972955e602a944}
+      \strng{authornamehash}{03784a7c5600d29113972955e602a944}
+      \strng{authorfullhash}{03784a7c5600d29113972955e602a944}
+      \strng{authorfullhashraw}{03784a7c5600d29113972955e602a944}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DB-Engines Ranking}
+      \verb{urlraw}
+      \verb https://db-engines.com/en/ranking
+      \endverb
+      \verb{url}
+      \verb https://db-engines.com/en/ranking
+      \endverb
+    \endentry
+    \entry{DevX2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=90a163a05e3a6aaf0a55ec49dd4a59b4}{%
+           family={DevX},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{fullhash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{fullhashraw}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{bibnamehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authorbibnamehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authornamehash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authorfullhash}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \strng{authorfullhashraw}{90a163a05e3a6aaf0a55ec49dd4a59b4}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{19}
+      \field{month}{12}
+      \field{title}{Hybrid Database}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.devx.com/terms/hybrid-database/
+      \endverb
+      \verb{url}
+      \verb https://www.devx.com/terms/hybrid-database/
+      \endverb
+    \endentry
+    \entry{Encyclo.nl}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0adb9731378855880351245cf33304b2}{%
+           family={Encyclo.nl},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{0adb9731378855880351245cf33304b2}
+      \strng{fullhash}{0adb9731378855880351245cf33304b2}
+      \strng{fullhashraw}{0adb9731378855880351245cf33304b2}
+      \strng{bibnamehash}{0adb9731378855880351245cf33304b2}
+      \strng{authorbibnamehash}{0adb9731378855880351245cf33304b2}
+      \strng{authornamehash}{0adb9731378855880351245cf33304b2}
+      \strng{authorfullhash}{0adb9731378855880351245cf33304b2}
+      \strng{authorfullhashraw}{0adb9731378855880351245cf33304b2}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Schaalbaarheid definities}
+      \verb{urlraw}
+      \verb https://www.encyclo.nl/begrip/schaalbaarheid
+      \endverb
+      \verb{url}
+      \verb https://www.encyclo.nl/begrip/schaalbaarheid
+      \endverb
+    \endentry
+    \entry{Foote2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=803194a299d058de8f19d18e360c8b35}{%
+           family={Foote},
+           familyi={F\bibinitperiod},
+           given={Keith\bibnamedelima D.},
+           giveni={K\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{fullhash}{803194a299d058de8f19d18e360c8b35}
+      \strng{fullhashraw}{803194a299d058de8f19d18e360c8b35}
+      \strng{bibnamehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authorbibnamehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authornamehash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authorfullhash}{803194a299d058de8f19d18e360c8b35}
+      \strng{authorfullhashraw}{803194a299d058de8f19d18e360c8b35}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{10}
+      \field{title}{Types of Database Management Systems}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.dataversity.net/types-of-database-management-systems/
+      \endverb
+      \verb{url}
+      \verb https://www.dataversity.net/types-of-database-management-systems/
+      \endverb
+    \endentry
+    \entry{geeksforgeeks2024}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6eb56f80be8a120436d6f1c9b8d87ca}{%
+           family={geeksforgeeks},
+           familyi={g\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{fullhash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{fullhashraw}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{bibnamehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authorbibnamehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authornamehash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authorfullhash}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \strng{authorfullhashraw}{a6eb56f80be8a120436d6f1c9b8d87ca}
+      \field{sortinit}{g}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{month}{3}
+      \field{title}{Flat File Database}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.geeksforgeeks.org/flat-file-database/
+      \endverb
+      \verb{url}
+      \verb https://www.geeksforgeeks.org/flat-file-database/
+      \endverb
+    \endentry
+    \entry{ibm}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e757fd4fedc4fe825bb81b1b466a0947}{%
+           family={ibm},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{fullhash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{fullhashraw}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{bibnamehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authorbibnamehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authornamehash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authorfullhash}{e757fd4fedc4fe825bb81b1b466a0947}
+      \strng{authorfullhashraw}{e757fd4fedc4fe825bb81b1b466a0947}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a relational database?}
+      \verb{urlraw}
+      \verb https://www.ibm.com/topics/relational-databases
+      \endverb
+      \verb{url}
+      \verb https://www.ibm.com/topics/relational-databases
+      \endverb
+    \endentry
+    \entry{ICTInformatiecentrum}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c1e9e03208d08b95b7d47f1071f6d5fa}{%
+           family={ICTInformatiecentrum},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{fullhash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{fullhashraw}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{bibnamehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authorbibnamehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authornamehash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authorfullhash}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \strng{authorfullhashraw}{c1e9e03208d08b95b7d47f1071f6d5fa}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database}
+      \verb{urlraw}
+      \verb https://www.ictinformatiecentrum.nl/data-management/database
+      \endverb
+      \verb{url}
+      \verb https://www.ictinformatiecentrum.nl/data-management/database
+      \endverb
+    \endentry
+    \entry{ictportal2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2619eae351473e58f6c74e8ce0e2d68}{%
+           family={ictportal},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{fullhash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{fullhashraw}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{bibnamehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authorbibnamehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authornamehash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authorfullhash}{e2619eae351473e58f6c74e8ce0e2d68}
+      \strng{authorfullhashraw}{e2619eae351473e58f6c74e8ce0e2d68}
+      \field{sortinit}{i}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{2}
+      \field{title}{Database}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.ictportal.nl/ict-lexicon/database
+      \endverb
+      \verb{url}
+      \verb https://www.ictportal.nl/ict-lexicon/database
+      \endverb
+    \endentry
+    \entry{Inetum2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5004e6134d61b21b4a0cfdc77054f400}{%
+           family={Inetum},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{fullhash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{fullhashraw}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{bibnamehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authorbibnamehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authornamehash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authorfullhash}{5004e6134d61b21b4a0cfdc77054f400}
+      \strng{authorfullhashraw}{5004e6134d61b21b4a0cfdc77054f400}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{12}
+      \field{month}{1}
+      \field{title}{MongoDB – the perfect database system for e-commerce?}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nearshore-it.eu/articles/mongodb-ecommerce-database/
+      \endverb
+      \verb{url}
+      \verb https://www.nearshore-it.eu/articles/mongodb-ecommerce-database/
+      \endverb
+    \endentry
+    \entry{Kleppmann2017a}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34b8d5b1d29d175527a6642f3ec8a76d}{%
+           family={Kleppmann},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{bibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorbibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authornamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Kleppmann2017}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=34b8d5b1d29d175527a6642f3ec8a76d}{%
+           family={Kleppmann},
+           familyi={K\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{fullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{bibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorbibnamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authornamehash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhash}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \strng{authorfullhashraw}{34b8d5b1d29d175527a6642f3ec8a76d}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Title:Designing Data-Intensive Applications : The Big Ideas Behind Reliable, Scalable, and Maintainable Systems}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{lucidchart}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a945dfc050b9f284bd166d0bd342094b}{%
+           family={lucidchart},
+           familyi={l\bibinitperiod}}}%
+      }
+      \strng{namehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{fullhash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{fullhashraw}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{bibnamehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authorbibnamehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authornamehash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authorfullhash}{a945dfc050b9f284bd166d0bd342094b}
+      \strng{authorfullhashraw}{a945dfc050b9f284bd166d0bd342094b}
+      \field{sortinit}{l}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is an Entity Relationship Diagram (ERD)?}
+      \verb{urlraw}
+      \verb https://www.lucidchart.com/pages/er-diagrams
+      \endverb
+      \verb{url}
+      \verb https://www.lucidchart.com/pages/er-diagrams
+      \endverb
+    \endentry
+    \entry{MariaDB}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7f9733e208088b1ce6df3d4be1765396}{%
+           family={MariaDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{fullhash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{fullhashraw}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{bibnamehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authorbibnamehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authornamehash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authorfullhash}{7f9733e208088b1ce6df3d4be1765396}
+      \strng{authorfullhashraw}{7f9733e208088b1ce6df3d4be1765396}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \verb{urlraw}
+      \verb https://mariadb.com/
+      \endverb
+      \verb{url}
+      \verb https://mariadb.com/
+      \endverb
+    \endentry
+    \entry{Microsoft}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{NoSQL Database: wat is NoSQL?}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/nl-nl/resources/cloud-computing-dictionary/what-is-nosql-database
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/nl-nl/resources/cloud-computing-dictionary/what-is-nosql-database
+      \endverb
+    \endentry
+    \entry{Microsofta}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhashraw}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is cloud computing?}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+      \endverb
+    \endentry
+    \entry{MongoDBb}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=206e3718af092fd1d12f80cae771ccac}{%
+           family={MongoDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \strng{bibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorbibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authornamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MongoDB Atlas FAQ}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/cloud/atlas/faq
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/cloud/atlas/faq
+      \endverb
+    \endentry
+    \entry{MongoDB}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=206e3718af092fd1d12f80cae771ccac}{%
+           family={MongoDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \strng{bibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorbibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authornamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What Is an Object-Oriented Database?}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/databases/what-is-an-object-oriented-database#:~:text=An object-oriented database (OOD,), everything is an object
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/databases/what-is-an-object-oriented-database#:~:text=An%20object-oriented%20database%20(OOD,),%20everything%20is%20an%20object
+      \endverb
+    \endentry
+    \entry{MongoDBa}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=206e3718af092fd1d12f80cae771ccac}{%
+           family={MongoDB},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{fullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \strng{bibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorbibnamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authornamehash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhash}{206e3718af092fd1d12f80cae771ccac}
+      \strng{authorfullhashraw}{206e3718af092fd1d12f80cae771ccac}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{3}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is MongoDB Atlas?}
+      \verb{urlraw}
+      \verb https://www.mongodb.com/docs/atlas/
+      \endverb
+      \verb{url}
+      \verb https://www.mongodb.com/docs/atlas/
+      \endverb
+    \endentry
+    \entry{Oracle}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=30162ed78b6c10f731411f2fc440c24f}{%
+           family={Oracle},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{fullhashraw}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{bibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorbibnamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authornamehash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorfullhash}{30162ed78b6c10f731411f2fc440c24f}
+      \strng{authorfullhashraw}{30162ed78b6c10f731411f2fc440c24f}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Atomicity}
+      \verb{urlraw}
+      \verb https://docs.oracle.com/cd/E17275_01/html/programmer_reference/transapp_atomicity.html
+      \endverb
+      \verb{url}
+      \verb https://docs.oracle.com/cd/E17275_01/html/programmer_reference/transapp_atomicity.html
+      \endverb
+    \endentry
+    \entry{ovhcloud}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7172a49053b1de3ef7d41479ef4fa382}{%
+           family={ovhcloud},
+           familyi={o\bibinitperiod}}}%
+      }
+      \strng{namehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{fullhash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{fullhashraw}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{bibnamehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authorbibnamehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authornamehash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authorfullhash}{7172a49053b1de3ef7d41479ef4fa382}
+      \strng{authorfullhashraw}{7172a49053b1de3ef7d41479ef4fa382}
+      \field{sortinit}{o}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Wat is een relationele database?}
+      \verb{urlraw}
+      \verb https://www.ovhcloud.com/nl/learn/what-is-relational-database/
+      \endverb
+      \verb{url}
+      \verb https://www.ovhcloud.com/nl/learn/what-is-relational-database/
+      \endverb
+    \endentry
+    \entry{ScyllaDB}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=05eff963a703df45c6c65778a86dab71}{%
+           family={ScyllaDB},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{fullhash}{05eff963a703df45c6c65778a86dab71}
+      \strng{fullhashraw}{05eff963a703df45c6c65778a86dab71}
+      \strng{bibnamehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authorbibnamehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authornamehash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authorfullhash}{05eff963a703df45c6c65778a86dab71}
+      \strng{authorfullhashraw}{05eff963a703df45c6c65778a86dab71}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Database Scalability}
+      \verb{urlraw}
+      \verb https://www.scylladb.com/glossary/database-scalability/
+      \endverb
+      \verb{url}
+      \verb https://www.scylladb.com/glossary/database-scalability/
+      \endverb
+    \endentry
+    \entry{Solarwinds}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c41ad41df449083927c4bbf30714b46b}{%
+           family={Solarwinds},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{fullhash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{fullhashraw}{c41ad41df449083927c4bbf30714b46b}
+      \strng{bibnamehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authorbibnamehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authornamehash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authorfullhash}{c41ad41df449083927c4bbf30714b46b}
+      \strng{authorfullhashraw}{c41ad41df449083927c4bbf30714b46b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is a SQL Database?}
+      \verb{urlraw}
+      \verb https://www.solarwinds.com/resources/it-glossary/sql-database
+      \endverb
+      \verb{url}
+      \verb https://www.solarwinds.com/resources/it-glossary/sql-database
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

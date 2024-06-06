@@ -1,0 +1,57 @@
+\chapter{\IfLanguageName{dutch}{Vergelijkende studie}{comparing study}}%
+\label{ch:vergelijkende-studie}
+
+\section{\IfLanguageName{dutch}{Welke database is het meest geschikt voor een e-commercewinkel in de modebranche?}{Which database is best suited for an e-commerce shop in the fashion industry?}}%
+\label{sec:}
+
+Voor het vervolg van deze literatuurstudie zal er een vergelijking uitgevoerd worden tussen vijf verschillende databases en besloten worden welke database de beste oplossing is voor een e-commerce webshop in de mode industrie. De vergelijking zal vooral gebaseerd zijn op de prestaties en kosten van de desbetreffende databases. Uit de vergelijkingen zal ook blijken waarom gekozen werd voor deze specifieke databases. De desbetreffende databases die vergeleken  gaan worden zijn: MariaDB, ClickHouse, Couchbase, Amazon Aurora en MongoDB.
+
+\section{\IfLanguageName{dutch}{MariaDB}{MariaDB}}%
+\label{sec:MariaDB}
+
+MariaDB is een relationele database die gebruikt kan worden voor verschillende doeleinden waaronder e-commerce. MariaDB is cloud-native  en biedt een hoge beschikbaarheid en schaalbaarheid.~\autocite{MariaDB} Bovendien is MariaDB open source wat betekent dat het gratis gebruikt kan worden. Cloud native is een softwarebenadering die toelaat om moderne applicaties te bouwen, te implementeren en te beheren in een cloud computing omgeving. Cloud computing is het leveren van computingservices - zoals servers, opslag, databases, netwerken, software, analyses en intelligentie - via het internet ("de cloud") om snellere innovatie, flexibele middelen en schaalvoordelen te bieden.~\autocite{Microsofta} Het gebruik van een cloud-native aanpak heeft enkele voordelen: de efficiëntie kan verhoogd worden, de kosten kunnen verlaagd worden doordat er geen nood is aan het investeren in dure fysieke infrastructuur en de beschikbaarheid van de applicaties kan verzekerd worden.~\autocite{Amazona} Bovenop de schaalbaarheid, beschikbaarheid en cloud-native aanpak biedt mariaDB ook nog ondersteuning voor meerdere workloads (transacties en analyses), alsook ondersteuning voor meerdere datatypes (relationeel en JSON).
+
+\section{\IfLanguageName{dutch}{ClickHouse}{ClickHouse}}%
+\label{sec:ClickHouse}
+
+Clickhouse is een databasebeheersysteem, geen database. Dit zorgt ervoor dat tijdens runtime tabellen en databases gemaakt kunnen worden, gegevens geladen kunnen worden en queries uitgevoerd kunnen worden zonder de server opnieuw te moeten configureren en opnieuw op te starten.~\autocite{ClickHouse} ClickHouse is een kolom georiënteerd database management systeem, die de snelheid van analytische queries optimaliseert. De data in deze kolommen wordt gecomprimeerd hetgeen een belangrijke rol speelt in het verbeteren van de prestaties van de database. Daarnaast is clickhouse ook ontworpen om te kunnen werken op gewone harde schijven wat ervoor zorgt dat de kost per GB opslag enorm daalt.
+
+\section{\IfLanguageName{dutch}{Couchbase}{Couchbase}}%
+\label{sec:Couchbase}
+
+Couchbase is een gedistribueerde NoSQL-clouddatabase onder andere ontwikkeld voor de retail en e-commerce industrie. Volgens ~\textcite{Couchbase} worden NoSQL databases steeds vaker gebruikt vanwege de groeiende focus op klantbeleving, wat een cruciaal competitief onderscheid vormt in de zakenwereld. In het middelpunt van deze revolutie liggen de grote gegevens van een bedrijf, samen met cloud-, mobiele-, sociale media- en IoT-toepassingen. Traditionele relationele databases zijn niet meer in staat om te voldoen aan de groeiende eisen van moderne web-, mobiele- en IoT-toepassingen, zoals bijvoorbeeld het ondersteunen van grote aantallen gebruikers, hoge responsiviteit, continue beschikbaarheid en het verwerken van semi- en ongestructureerde data. Dit heeft geleid tot een groeiende adoptie van NoSQL-databases door grote bedrijven zoals Tesco, Marriott, Gannett en GE. De opkomst van vijf trends in de digitale economie - zoals meer online klanten en de groei van big data - heeft geleid tot nieuwe technische uitdagingen die NoSQL-databases kunnen oplossen. Ondertussen blijven traditionele relationele databases achter omdat ze niet voldoen aan de vereisten van een snel veranderende digitale economie en niet geschikt zijn voor agile ontwikkeling. Door de netwerkgerichte architectuur van couchbase is ook de prijs voor het schalen van een dergelijke database goedkoper en eenvoudiger. Daarnaast biedt couchbase ook hoge prestaties en efficiëntie door hun in memory en gedistribueerde architectuur.~\autocite{Couchbasea}
+
+\newpage
+
+\section{\IfLanguageName{dutch}{Amazon Aurora}{Amazon Aurora}}%
+\label{sec:Amazon Aurora}
+
+Amazon Aurora is een relationele databaseservice die de snelheid en beschikbaarheid van high-end commerciële databases combineert met eenvoud en kosteneffectiviteit.~\autocite{Amazonb} Volgens~\textcite{Amazonb} zou er een toename in doorvoer zijn van maximaal 5x ten opzichte van de standaard MySQL. Dankzij de serverless configuratie voor Amazon Aurora is het ook mogelijk om de database automatisch te schalen op basis van de vereisten van het bedrijf. 
+
+\section{\IfLanguageName{dutch}{MongoDB Atlas}{MongoDB Atlas}}%
+\label{sec:MongoDB Atlas}
+
+Zoals eerder besproken bij couchbase wordt het gebruik van een NoSQL database voor een e-commerce website steeds populairder. Vandaar ook de keuze voor MongoDB Atlas. MongoDB Atlas is een multi-cloud databaseservice aangeboden door mongoDB. Atlas zorgt voor een vereenvoudigde implementatie en beheer van de database en biedt tegelijkertijd de veelzijdigheid die nodig is om een veerkrachtige en performante applicatie te bouwen op een cloudprovider.~\autocite{MongoDBa} MongoDB Atlas biedt toegang tot alle core features die MongoDB aanbiedt. Hieronder valt onder meer de hoge prestaties, de schaalbaarheid, de hoge beschikbaarheid en meer. ~\autocite{MongoDBb}
+
+\section{\IfLanguageName{dutch}{Conclusie}{Conclusion}}%
+\label{sec:Conclusie}
+
+Op basis van de geraadpleegde literatuur kan besloten worden dat voor het bouwen van een moderne e-commerce website, in dit geval in de mode-industrie best gebruik gemaakt wordt van een NoSQL database. Dit mede om te kunnen voldoen aan de voortdurende groei aan vraag van de klanten. Dit betekent dat zowel MariaDB, Clickhouse en Amazon Aurora uitgesloten kunnen worden. Zowel MongoDb atlas als Couchbase zijn een uitstekende oplossing. Couchbase geniet hierbij de voorkeur aangezien het goede prestaties en gemakkelijke schaling aanbiedt. Couchbase is echter niet goedkoop. De goedkoopste service die momenteel aangeboden wordt is \$0,28/uur (€0,26/uur), wat ongeveer overeen komt met \$201,6/maand (€189,00/maand). MongoDB Atlas daarentegen biedt al services aan vanaf \$57/maand (€53,44/maand). Dit is ongeveer 1/4 de van de prijs van Couchbase. Als startup is het dus mogelijks interessanter om te beginnen met een MongoDB Atlas database. Indien geld een minder belangrijke rol speelt, wordt aangeraden om een Couchbase database te gebruiken.
+
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{l S[table-format=1.2] S[table-format=1.2] S[table-format=3.2] S[table-format=3.2]}
+        \toprule
+        \textbf{Service} & \textbf{Prijs/u (\$)} & \textbf{Prijs/u (€)} & \textbf{Prijs/mnd (\$)} & \textbf{Prijs/mnd (€)} \\
+        \midrule
+        Couchbase & 0.28 & 0.26 & 201.60 & 189.00 \\
+        MongoDB Atlas & \multicolumn{2}{c}{N.v.t.} & 57.00 & 53.44 \\
+        \bottomrule
+    \end{tabular}
+    \caption{Vergelijking van kosten tussen Couchbase en MongoDB Atlas}
+    \label{tab:prices}
+\end{table}
+
+De prijzen voor Amazon Aurora en ClickHouse zijn gebaseerd op het verbruik en de configuraties die gemaakt worden (totaal geheugen, opslag, enzovoort).
+

@@ -19,6 +19,9 @@
 %% For source code highlighting, requires pygments to be installed
 %% Compile with the -shell-escape flag!
 \usepackage[section]{minted}
+\usepackage[dutch,dutch]{babel} % Specify languages
+\usepackage{iflang} % Required for \IfLanguageName
+
 %% If you compile with the make_thesis.{bat,sh} script, use the following
 %% import instead:
 %% \usepackage[section,outputdir=../output]{minted}
@@ -52,11 +55,11 @@
 
 %%---------- Document metadata -------------------------------------------------
 % TODO: Replace this with your own information
-\author{Ernst Aarden}
-\supervisor{Dhr. F. Van Houte}
-\cosupervisor{Mevr. S. Beeckman}
-\title[Optionele ondertitel]%
-    {Titel van de bachelorproef}
+\author{Yani Degrande}
+\supervisor{Mevr. S. Vandermeersch}
+\cosupervisor{Dhr. S. Braet}
+\title[]%
+    {Evaluatie van databaseoplossingen voor e-commerce in de mode-industrie: een focus op prestaties en kosten}
 \academicyear{\advance\year by -1 \the\year--\advance\year by 1 \the\year}
 \examperiod{1}
 \degreesought{\IfLanguageName{dutch}{Professionele bachelor in de toegepaste informatica}{Bachelor of applied computer science}}
@@ -76,6 +79,17 @@
 
 \renewcommand{\arraystretch}{1.2}
 
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{booktabs}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{geometry}
+
 %% Content starts here.
 \begin{document}
 
@@ -89,7 +103,7 @@
     %% If necessary, information can be changed here
     \degreesought{Professionele Bachelor toegepaste informatica}%
     \begin{otherlanguage}{dutch}%
-       \maketitle%
+        \maketitle%
     \end{otherlanguage}%
 }{}
 
@@ -115,8 +129,11 @@
 
 % If you included tables and/or source code listings, uncomment the appropriate
 % lines.
-%\listoftables
-%\listoflistings
+\listoftables
+
+\listoflistings
+
+
 
 % Als je een lijst van afkortingen of termen wil toevoegen, dan hoort die
 % hier thuis. Gebruik bijvoorbeeld de ``glossaries'' package.
@@ -135,6 +152,12 @@
 \input{inleiding}
 \input{standvanzaken}
 \input{methodologie}
+\input{requirement-analyse}
+\input{long-short}
+\input{vergelijkende-studie}
+\input{onderzoek}
+
+
 
 % Voeg hier je eigen hoofdstukken toe die de ``corpus'' van je bachelorproef
 % vormen. De structuur en titels hangen af van je eigen onderzoek. Je kan bv.
